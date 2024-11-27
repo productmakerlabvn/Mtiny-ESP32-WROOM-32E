@@ -192,6 +192,6 @@ Trong các trường hợp đã nạp chương trình (không cần sử dụng 
 
 ## Nhà phân phối
 
-Có thể mua Mạch Mtiny ESP8266 ESP-07S (Arduino Compatible) tại các nhà phân phối sau:
+Có thể mua Mạch Mtiny ESP32 WROOM-32E (Arduino Compatible) tại các nhà phân phối sau:
 
 - [Hshop.vn - Điện tử & Robot.](hshop.vn)
