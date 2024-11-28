@@ -194,4 +194,4 @@ Trong các trường hợp đã nạp chương trình (không cần sử dụng 
 
 Có thể mua Mạch Mtiny ESP32 WROOM-32E (Arduino Compatible) tại các nhà phân phối sau:
 
-- [Hshop.vn - Điện tử & Robot.](hshop.vn)
+- [Hshop.vn - Điện tử & Robot.](https://hshop.vn)
