@@ -58,15 +58,7 @@ Mtiny là viết tắt của Maker Tiny là dự án tạo ra các mạch vi đi
   </tr>
   <tr>
     <td>Programmer</td>
-    <td><a href="https://wiki.makerlab.vn/index.php/M%E1%BA%A1ch_Mtiny_Programmer_(Arduino_Compatible)">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
-  </tr>
-  <tr>
-    <td>Programmer Connector</td>
-    <td>Mtiny Socket - IDC 8-Pin (2x4)</td>
-  </tr>
-  <tr>
-    <td>Programmer</td>
-    <td><a href="https://wiki.makerlab.vn/index.php/M%E1%BA%A1ch_Mtiny_Programmer_(Arduino_Compatible)">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
+    <td><a href="https://makerlab.vn/mtprogrammer">Mạch Mtiny Programmer (Arduino Compatible)</a></td>
   </tr>
   <tr>
     <td>Programmer Connector</td>
